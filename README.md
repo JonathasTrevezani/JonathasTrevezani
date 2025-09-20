@@ -45,6 +45,7 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript">&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="40" title="React">&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS">&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=php" height="40" title="PHP">&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="40" title="Git">&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="40" title="Python">

@@ -71,4 +71,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasTrevezani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+<p align="center">
+  ![Snake animation](dist/github-contribution-grid-snake.svg)
+</p>
+
 

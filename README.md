@@ -40,13 +40,13 @@
 
 ### ⚡ Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" style="margin-right:30px;">
-  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" style="margin-right:30px;">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript" style="margin-right:30px;">
-  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" style="margin-right:30px;">
-  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" style="margin-right:30px;">
-  <img src="https://skillicons.dev/icons?i=php" height="40" title="PHP" style="margin-right:30px;">
-  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" style="margin-right:30px;">
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React"&nbsp;&nbsp;>
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="40" title="PHP">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git">&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="40" title="Python">
 </p>
 

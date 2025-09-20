@@ -40,7 +40,14 @@
 
 ### ⚡ Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,php,git,python" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java">
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript">
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React">
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML">
+  <img src="https://skillicons.dev/icons?i=php" height="40" title="PHP">
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git">
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python">
 </p>
 
 ---

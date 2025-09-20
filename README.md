@@ -72,7 +72,8 @@
   />
 </p>
 <p align="center">
-  ![Snake animation](dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://JonathasTrevezani.github.io/<nome-do-repo>/github-contribution-grid-snake.svg)
 </p>
+
 
 

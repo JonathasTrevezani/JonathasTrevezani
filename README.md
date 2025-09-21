@@ -10,9 +10,18 @@
 
 <h2>Contatos e redes Sociais</h2>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joni.rj@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-trevezani-16959853/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521987790991)
+<a href="mailto:joni.rj@hotmail.com" title="E-mail">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/jonathas-trevezani-16959853/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://wa.me/5521987790991" title="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
 
 ---
 
@@ -70,11 +79,4 @@
   />
 </p>
 
----
-
-### 🐍 Snake Game
-
-<p align="center">
-  <img src="https://JonathasTrevezani.github.io/JonathasTrevezani/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
 

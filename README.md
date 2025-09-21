@@ -14,8 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-trevezani-16959853/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521987790991)
 
-
-
 ---
 
 ### 🔗 Conecte-se comigo
@@ -71,9 +69,11 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasTrevezani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+---
+
+### 🐍 Snake Game
+
 <p align="center">
-  ![Snake animation](https://JonathasTrevezani.github.io/<nome-do-repo>/github-contribution-grid-snake.svg)
+  ![Snake animation](https://JonathasTrevezani.github.io/meu-portfolio/github-contribution-grid-snake.svg)
 </p>
-
-
-

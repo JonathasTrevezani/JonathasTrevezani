@@ -75,5 +75,6 @@
 ### 🐍 Snake Game
 
 <p align="center">
-  ![Snake animation](https://JonathasTrevezani.github.io/JonathasTrevezani/github-contribution-grid-snake.svg)
+  <img src="https://JonathasTrevezani.github.io/JonathasTrevezani/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
+

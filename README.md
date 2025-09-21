@@ -72,4 +72,8 @@
 
 ---
 
-![snake gif](https://github.com/JonathasTrevezani/JonathasTrevezani/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Snake Game
+
+<p align="center">
+  ![Snake animation](https://JonathasTrevezani.github.io/JonathasTrevezani/github-contribution-grid-snake.svg)
+</p>

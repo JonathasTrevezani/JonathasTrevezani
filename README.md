@@ -30,14 +30,14 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas no GitHub" 
-            src="https://img.shields.io/github/stars/JonathasTrevezani?label=Estrelas&style=for-the-badge&logo=github&color=55960c&cacheSeconds=60"
+            src="https://img.shields.io/github/stars/JonathasTrevezani?label=Estrelas&style=for-the-badge&logo=github&logoColor=white&color=55960c&labelColor=488207&cacheSeconds=60"
         />
     </a>
     <a href="https://github.com/JonathasTrevezani?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/JonathasTrevezani?label=Seguidores&style=for-the-badge&logo=github&color=236ad3&cacheSeconds=60"
+            src="https://img.shields.io/github/followers/JonathasTrevezani?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=236ad3&labelColor=1155ba&cacheSeconds=60"
         />
     </a>
 </p>

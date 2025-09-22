@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
-
 ---
 
 ### 🔗 Conecte-se comigo
@@ -31,19 +30,17 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JonathasTrevezani?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            src="https://img.shields.io/github/stars/JonathasTrevezani?label=Estrelas&style=for-the-badge&logo=github&color=55960c&cacheSeconds=60"
         />
     </a>
     <a href="https://github.com/JonathasTrevezani?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JonathasTrevezani?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/JonathasTrevezani?label=Seguidores&style=for-the-badge&logo=github&color=236ad3&cacheSeconds=60"
         />
     </a>
 </p>
-
----
 
 ### ⚡ Tecnologias
 <p align="left">
